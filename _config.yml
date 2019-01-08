@@ -23,7 +23,7 @@ description              : "Exploring Data Science, Machine and Deep Learning an
 url                      : "https://kdorichev.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : kdorichev/kdorichev.github.io 
-teaser                   : /assets/images/teaser-800x450.jpg"
+teaser                   : /assets/images/teaser-800x450.jpg
 breadcrumbs              : true #false # true, false (default)
 words_per_minute         : 200
 comments:
